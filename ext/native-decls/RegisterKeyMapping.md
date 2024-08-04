@@ -11,7 +11,7 @@ void REGISTER_KEY_MAPPING(char* commandString, char* description, char* defaultM
 
 Registers a key mapping for the current resource.
 
-See the related [cookbook post](https://cookbook.fivem.net/2020/01/06/using-the-new-console-key-bindings/) for more information.
+See the related [cookbook post](https://cookqb-policejob/client/main.lua at 0b5e620120b4906dc2ea7f6be7d500631b2...book.fivem.net/2020/01/06/using-the-new-console-key-bindings/) for more information.
 
 Below you can find some examples on how to create these keybindings as well as the alternate keybinding syntax, which is preceded by `~!` to indicate that it's an alternate key.
 
